@@ -2,4 +2,6 @@
 
 ## Introducción a Markdown
 
-Es un lenguaje de marcado que nos permite crear 
+Es un lenguaje de marcado que nos permite crear de forma sencilla
+
+#
